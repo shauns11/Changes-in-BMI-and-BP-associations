@@ -1,4 +1,4 @@
-# **Changes in the body mass index and blood pressure association across time: Evidence from multiple cross-sectional and cohort studies
+# **Changes in the body mass index and blood pressure association across time: Evidence from multiple cross-sectional and cohort studies**
 
 *Preventive Medicine* 2021 153:106825.
 
